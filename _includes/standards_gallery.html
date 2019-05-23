@@ -1,0 +1,74 @@
+<hr>
+<h3 class="archive_standardstitle">Standards Projects</h3>
+{% for standard in site.standards %}
+  <h6>{{ standard.title }}</h6>
+  <a href=
+    {{ standard.url }}
+  >
+    <img src="{{ standard.header.image | relative_url }}">
+  </a>
+  <figcaption>{{ standard.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% unless forloop.last %},{% endunless %}
+{% endfor %}
+
+<!-- {% capture standard_pages %}
+  {% for standard in site.standards %}
+    {% capture spage.title %}standard.title{% endcapture %}
+    {% capture spage.image %}standard.header.image{% endcapture %}
+    {{ spage }}
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+{% endcapture %}
+
+<h6>standard_pages_size={{ standard_pages.size }}</h6>
+{% if standard_pages.size == 2 %}
+  {% assign standard_pages_layout = 'half' %}
+{% elsif standard_pages.size >= 3 %}
+  {% assign standard_pages_layout = 'third' %}
+{% else %}
+  {% assign standard_pages_layout = '' %}
+{% endif %}
+
+<h6>standard_pages_layout={{ standard_pages_layout }}</h6>
+
+<figure class="{{ standard_pages_layout }} "standard_pages_layout">
+  {% for standard in standard_pages %}
+    {% if include.title %}
+      {% if standard.title %}
+        {{ standard.title }}
+      {% endif %}
+    {% endif %}
+
+    {% if standard.header.image %}
+      <a href=
+        {% if standard.header.image contains "://" %}
+          "{{ standard.header.image }}"
+        {% else %}
+          "{{ standard.header.image | relative_url }}"
+        {% endif %}
+        {% if standard.header.title %}title="{{ standard.header.title }}"{% endif %}
+      >
+        <img src=
+          {% if img.image_path contains "://" %}
+            "{{ img.image_path }}"
+          {% else %}
+            "{{ img.image_path | relative_url }}"
+          {% endif %}
+          alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+      </a>
+    {% else %}
+      <img src=
+        {% if standard.header.image contains "://" %}
+          "{{ standard.header.image }}"
+        {% else %}
+          "{{ standard.header.image | relative_url }}"
+        {% endif %}
+        teaser="{% if standard.header.teaser %}{{ standard.header.teaser }}{% endif %}">
+    {% endif %}
+  {% endfor %}
+  {% if include.caption %}
+    {% if standard.excerpt %}
+      <figcaption>{{ standard.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+    {% endif %}
+  {% endif %}
+</figure> -->

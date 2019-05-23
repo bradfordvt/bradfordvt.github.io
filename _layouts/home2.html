@@ -1,0 +1,28 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<!-- {% for standard in site.standards %}
+  <h2 class="archive__item-title" itemprop="headline">
+    {% if standard.link %}
+      <a href="{{ standard.link }}">{{ standard.title }}</a> <a href="{{ standard.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+    {% else %}
+      <a href="{{ standard.url | relative_url }}" rel="permalink">{{ standard.title }}</a>
+    {% endif %}
+  </h2>
+  <h6>Title: {{ standard.title }}</h6>
+  <h6>Excerpt: {{ standard.excerpt }}</h6>
+  <h6>header.image: {{ standard.header.image }}</h6>
+{% endfor %} -->
+
+{% include standards_gallery.html title=true caption=true %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
