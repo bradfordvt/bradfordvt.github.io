@@ -1,0 +1,12 @@
+<hr>
+<h3 class="archive_projectstitle">GitHub Projects</h3>
+{% for project in site.projects %}
+  <h6>{{ project.title }}</h6>
+  <a href=
+    {{ project.url }}
+  >
+    <img src="{{ project.header.icon | relative_url }}">
+  </a>
+  <figcaption>{{ project.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% unless forloop.last %},{% endunless %}
+{% endfor %}

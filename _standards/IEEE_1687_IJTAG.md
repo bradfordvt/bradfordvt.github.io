@@ -1,23 +1,29 @@
 ---
-title: "IEEE Std 1687 IEEE Standard for Access and Control of Instrumentation Embedded within a Semiconductor Device"
+title: "IEEE Std 1687 - IEEE Standard for Access and Control of Instrumentation Embedded within a Semiconductor Device"
 excerpt: "A methodology for accessing instrumentation embedded within a semiconductor device, without defining the instruments or their features themselves, via the IEEE 1149.1TM test access port (TAP) and/or other signals, is described in this standard. The elements of the methodology include a hardware architecture for the on-chip network connecting the instruments to the chip pins, a hardware description language to describe this network, and a software language and protocol for communicating with the instruments via this network."
 url: page.href
 header:
   image: /assets/images/IJTAG_Logo.png
   teaser: assets/images/IJTAG_Logo.png
 gallery:
-  - url: /assets/images/IllustrativeSJTAGSystem.png
-    image_path: assets/images/IllustrativeSJTAGSystem.png
-    alt: "placeholder Illustrative SJTAG System"
-  - url: /assets/images/SJTAGVisualization.png
-    image_path: assets/images/SJTAGVisualization.png
-    alt: "placeholder SJTAG Visualization"
-  - url: /assets/images/EMBISTEcoSystemforDataTransfer.png
-    image_path: assets/images/EMBISTEcoSystemforDataTransfer.png
-    alt: "placeholder EMBIST EcoSystem"
-  - url: /assets/images/SystemLevelAccessDataPathConcept.png
-    image_path: assets/images/SystemLevelAccessDataPathConcept.png
-    alt: "placeholder System Level Access Concept"
+  - url: /assets/images/Example IEEE 1687-2014_IEEE 1149.1-2013 Topology.png
+    image_path: assets/images/Example IEEE 1687-2014_IEEE 1149.1-2013 Topology.png
+    alt: "placeholder Example IEEE 1687-2014_IEEE 1149.1-2013 Topology"
+  - url: /assets/images/TAP Finite State Machine.png
+    image_path: assets/images/TAP Finite State Machine.png
+    alt: "placeholder TAP Finite State Machine"
+  - url: /assets/images/Single-module 1687 network architecture.png
+    image_path: assets/images/Single-module 1687 network architecture.png
+    alt: "placeholder Single-module 1687 network architecture"
+  - url: /assets/images/Multiple-module 1687 network.png
+    image_path: assets/images/Multiple-module 1687 network.png
+    alt: "placeholder Multiple-module 1687 network"
+  - url: /assets/images/Raw instrument.png
+    image_path: assets/images/Raw instrument.png
+    alt: "placeholder Raw instrument"
+  - url: /assets/images/Single TDR.png
+    image_path: assets/images/Single TDR.png
+    alt: "placeholder Single TDR"
 ---
 *The following is an excerpt from the IEEE Std 1687-2014 publication.*
 
@@ -44,4 +50,4 @@ looking architectures that are scalable and uniform in their approach to accessi
 
 {% include gallery caption="This is gallery of key concepts being investigated by the working group." %}
 
-[http://www.sjtag.org](http://www.sjtag.org)
+[https://standards.ieee.org/standard/1687-2014.html](https://standards.ieee.org/standard/1687-2014.html)
