@@ -316,6 +316,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  home_projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -357,6 +360,14 @@ defaults:
   - scope:
       path: ""
       type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _home_projects
+  - scope:
+      path: ""
+      type: home_projects
     values:
       layout: single
       author_profile: true

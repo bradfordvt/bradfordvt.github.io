@@ -1,0 +1,12 @@
+<hr>
+<h3 class="archive_projectstitle">Home Projects</h3>
+{% for home_project in site.home_projects %}
+  <h6>{{ home_project.title }}</h6>
+  <a href=
+    {{ home_project.url }}
+  >
+    <img src="{{ home_project.header.icon | relative_url }}">
+  </a>
+  <figcaption>{{ home_project.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% unless forloop.last %},{% endunless %}
+{% endfor %}

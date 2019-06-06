@@ -1,0 +1,98 @@
+BRADFORD G. VAN TREUREN
+UNITED STATES
+609.240.3066
+bradvt59@gmail.com
+www.linkedin.com/in/BradfordGVanTreuren
+
+
+SOFTWARE DEVELOPMENT LEADER
+- Deliver Cutting-Edge Solutions
+- Technical Leader
+- Effective Global Collaboration
+
+Demonstrate extensive technical and leadership experience yielding 20 issued US patents and over 19 publications. Broad expertise designing, testing, and delivering cutting-edge software that drives profitable revenue. Collaborative problem solver who guides international teams to invent advanced technology and tools. Expert in all facets of Software Development Life Cycle (SDLC). Coach and mentor who promotes the use of best practices, agile methods, and commonsense solutions. Industry leader and expert who influences and co-authors various industry standards. Open to remote work anywhere in the United States.
+- Software Engineering
+- Electrical Engineering
+- Object-Oriented OOA, OOD, OOP
+- Domain Specific Languages (DSL)
+- Parsers
+- Operating Systems
+- Device Drivers
+- Embedded Systems
+- Network Systems
+- Board and System Test
+- Spearhead Industry Standards
+- Project Leadership and Management
+- Coaching and Mentoring
+
+
+TECHNICAL SKILLS
+
+- LANGUAGES: Python, C++, C, C#, Java, Tcl, UML, XML, IronPython, ksh, bash, MATLAB/Octave, SQL, HTML, VHDL, Verilog, myHDL, BSDL, ICL, PDL
+- (R)DBMS: Sqlite3, MySQL, MS Access, SQLAlchemy, Hibernate, NHibernate
+- PLATFORMS: Linux (Debian, CentOS, Ubuntu, RedHat, Knoppix), Windows, VxWorks, Stand-alone
+- TECHNOLOGIES: Software Design Patterns and Anti-patterns, .NET Framework, Agile Methods, Software Development Life Cycle (SDLC), Swing, Tk, Qt5, wxWindows, SWIG, SMC, C++ boost, C++ STL, Test Driven Development (TDD)
+
+
+PATENTS AND PUBLICATIONS
+
+- Holder of 20 US Patents, 19 publications, co-author of 4 standards documents (Details may be found on my LinkedIn Profile)
+
+
+SELECTED ACCOMPLISHMENTS
+
+SOFTWARE ENGINEERING
+- Analyzed legacy radio test software, Design & Verification Test (DVT) process, and Integration & Verification (I&V) process, identifying process improvements resulting in design and development of Python-based TesterFramework package. Reduced test development from 6 months to 2 weeks. Allowed the use of Test Driven Development (TDD) for both hardware and software, easy evolution of 3GPP test cases as prototype radio hardware and software changed, enabled test portability between test stations, automated test equipment control, and automated documentation in MS Excel worksheets with embedded images of instrument screen captures.
+- Identified missing tooling for testing new FPGA and SoC (System-on-Chip) IP (Intellectual Property) logic, leading to development of special software tools to generate and analyze patterns required to test these interfaces. Integrated bit-accurate C MATLAB models into tooling to compute equivalent FFT / iFFT used by IP logic.
+- Created the embedded boundary-scan (EBS) architecture being used in over 20 products (over 60 board integrations) providing a common interface for structural test, programming, fault injection, and various other features all ported to Windows, Solaris, Linux, VxWorks, and several stand-alone platforms. 1 case of remote update using this method saved more than $1M in Supply Chain costs alone.
+- Invented the Test Flow Control Language(TM) (TFCL(TM)), instrumental in decoupling dependencies between EBS applications and the embedded system software.
+
+ELECTRICAL ENGINEERING
+- In 4 days, salvaged first samples of SoC devices by automating SoC team workaround, supporting automatic boot of instances on various new board designs. Built Raspberry Pi3-based solution and designed equivalent solution using the radio's FPGA for auto-boot of the multiple instances of SoC on each radio. This kept plan on target.
+- Co-developed high-speed embedded Test Access Port (TAP) Controller IP (40MHz TCK) to facilitate embedded testing.
+- Co-developed various FPGA-based, instrument IP as embedded test enhancements providing an increase in test coverage, faster tests, and enabling at-speed testing of interfaces.
+
+TECHNICAL LEADER
+- Guided small development team creating test software and platforms for testing prototype mobile 4G LTE / 5G radio designs. Improved efficiency of test development by a factor of 12.
+- Led and mentored group of 7 developers constructing advanced board and system test CAE tools supporting test of backplanes, device clusters, boards and systems as well as support remote programming, fault injection and embedded tooling.
+- Mentored Bell Labs-Ireland team developing novel JTAG management designs in SoCs.
+
+INDUSTRY LEADER
+- Chaired IEEE System Joint Test Action Group (SJTAG) Investigation Group defining new system test standards for industry (2006 - 2008).
+- Authored boundary-scan sections for both the Advanced Mezzanine Card (PICMG(R) AMC.0 R1.0) base specification and MicroTCA (PICMG(R) MicroTCA.0.9) base specification of the Advanced Telecom Compute Architecture (PICMG 3.x / ATCA) standard.
+- Core member of the IEEE Std 1581 Static Component Interconnection Test Protocol and Architecture committee (2005-2008) and the IEEE Std 1687 Standard for Access and Control of Instrumentation Embedded within a Semiconductor Device committee (2005-2014).
+- Currently core member of the IEEE P2654 System Test and Access Management (STAM) and IEEE P1687.1 Standard for the Application of Interfaces and Controllers to Access 1687 IJTAG Networks Embedded Within Semiconductor Devices.
+
+
+PROFESSIONAL EXPERIENCE
+
+NOKIA, Home Office
+DISTINGUISHED MEMBER OF TECHNICAL STAFF, 2016 - present
+
+ALCATEL-LUCENT, Home Office
+DISTINGUISHED MEMBER OF TECHNICAL STAFF, 2006 - 2016
+
+LUCENT TECHNOLOGIES, (60% Home, 40% Holmdel, NJ)
+MEMBER OF TECHNICAL STAFF, 2002 - 2006
+
+LUCENT TECHNOLOGIES, Princeton, NJ
+MEMBER OF TECHNICAL STAFF, 1996 - 2002
+
+
+PREVIOUS RELATED PROFESSIONAL EXPERIENCE
+
+AT&T, Princeton, NJ
+MEMBER OF TECHNICAL STAFF
+
+
+EDUCATION
+
+- Completed MASTER OF SCIENCE (MS), Computer Science coursework (Thesis Pending), University of Illinois, Urbana-Champaign, IL
+- BACHELOR OF SCIENCE (BS), Electrical Engineering Technology w/ Aviation Technology Option, Le Tourneau University, Longview, TX
+
+
+COMMUNITY LEADER
+
+- New Jersey State Science Olympiad for Elementary Schools: Coach, Event Supervisor, Judge, 2005 - 2008
+- New Jersey State Science Olympiad for Middle Schools: Coach and Mentor, 2008 - 2009
+- Videographer for South Hunterdon Regional High School Football Program, 2009 - 2012
