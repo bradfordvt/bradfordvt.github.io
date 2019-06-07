@@ -31,9 +31,9 @@ gallery:
     alt: "placeholder CiragoNS2000Diagram"
     figcaption: "Cirago NS-2000 NAS"
 ---
-Since retiring from Nokia, I have been keeping active developing my skills and passion for Python programming.  I have also been interested in learning new skills, like web development, to get a better understanding how other industries outside of embedded programming use software tools and languages.  I have also been able to spend time on some of my personal projects I have always been wanting to get to, but have been too busy with work and other industry activities.
+Since retiring from Nokia, I have been keeping active developing my skills and passion for Python programming.  I have also been interested in learning new skills, like web development, to get a better understanding how other industries outside of embedded programming use software tools and languages.  I have also been able to spend time on some of my personal projects I have always been wanting to get to, but have been too busy with work and other activities.
 
-Although dabbling in new technology is fun and challenging, I desire to find a place in industry where I can apply my skills to real world problems and continue to challenge myself to find commonsense solutions to unresolved issues.  I also find I miss being able to mentor colleagues and watch them grow as they learn.  I am able to continue some of my mentoring friendships, but it is not the same as working with colleagues tackling real world problems.
+Although dabbling in new technology is fun and challenging, I desire to find a place in industry where I can apply my skills to real world problems and continue to challenge myself to find commonsense solutions to unresolved issues.  I also find I miss being able to mentor colleagues and watch them grow as they learn.  I am able to continue some of my mentoring friendships, but it is not the same as working with colleagues tackling real world, industry problems.
 
 In the meantime, I am consulting with friends and industry contacts regarding Small Office Home Office (SOHO) Layouts, Boundary-Scan Test, System Test, Board Test, and embedded instrumentation.
 
@@ -43,7 +43,12 @@ Cell: (609) 240-3066<br>
 [LinkedIn](https://www.linkedin.com/in/bradfordgvantreuren)
 
 ## Home Projects
+### Network Attached Storage (NAS)
 I have found I was pretty successful at tackling many of my personal projects over the years, but only by prioritizing what I needed at the time and focusing on those.  **Network Attached Storage (NAS) for my home office** was the most important and required a lot of product evaluations and experimentation.  I tried a few commercial products hoping for an "Off-the-Shelf" solution to my NAS needs.  Check out my [Network Attached Storage (NAS) home project page](/home_projects/NASExperiment/index.html).
+### Print Server
+The second task to tackle was networking my home and office printers so I can access them from any PC in the home. I again tried to find a commercial product that would meet my needs.  Unfortunately, not all solutions worked to fill all my requirements.  So I lived with trade-offs until I developed the ultimate print server that met my needs.  Check out my [Print Server Experiments project page](/home_projects/PrintServer/index.html).
+### Home Web server
+After retiring from Nokia, I wanted to learn some new technology.  Since I needed to set up a personal web site, I thought learning how web servers work would be a good learning project.  So I pulled out a Pogoplug Pro and configured it to be a web server where I can experiment with dynamic services and static pages (LAMP vs Jekyll Servers).  Check out my [LAMP Server project page](/home_projects/LAMPServer/index.html).
 
 ## Industry Standards Contributions
 I am actively involved in various IEEE Standards Working Groups helping to define new standards for testing systems.  Check out all of my standards pages for more information:

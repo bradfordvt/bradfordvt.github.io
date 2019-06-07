@@ -9,4 +9,4 @@ url: page.href
 
 [Text version of resume](../assets/resume/VanTreuren Bradford TEXT.txt)
 
-PDF version of resume:
+[PDF version of resume](../assets/resume/VanTreuren Bradford FINAL.pdf)
