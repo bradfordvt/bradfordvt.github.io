@@ -31,7 +31,16 @@ gallery:
     alt: "placeholder CiragoNS2000Diagram"
     figcaption: "Cirago NS-2000 NAS"
 ---
-Since retiring from Nokia, I have been keeping active developing my skills and passion for Python programming.  I have also been interested in learning new skills, like web development, to get a better understanding how other industries outside of embedded programming use software tools and languages.  I have also been able to spend time on some of my personal projects I have always been wanting to get to, but have been too busy with work and other activities.
+Since recently retiring from Nokia, I am seeking remote work anywhere in the United States - consulting, contract, and full time opportunities.  I am actively involved at:
++ Continuing to consult - leveraging my board and system test expertise.
++ Continuing to consult - leveraging my networking expertise.
++ Continuing to consult - leveraging my software engineering expertise.
++ Continuing to consult  about SOHO layouts.
++ Actively involved with the IEEE P2654 and IEEE P1687.1 standards efforts as a key technical member developing simulations and architecture for each standard.
++ Co-authoring papers for European Test Symposium/TESTA 2019 Workshop, AUTOTESTCON 2019, and International Test Conference 2019.
++ Continue to develop my skills and passion for Python programming taking webinars, reading books, and developing GitHub projects.
++ Learning new skills, like web development, to get a better understanding how other industries outside of embedded programming use software tools and languages.  (I have set up this Jekyll based site on GitHub and have developed my own home server (*See my LAMP Server Project page*))
++ Spending time refining some of my personal projects. (*See my NAS Experiment and Print Server Project pages*)
 
 Although dabbling in new technology is fun and challenging, I desire to find a place in industry where I can apply my skills to real world problems and continue to challenge myself to find commonsense solutions to unresolved issues.  I also find I miss being able to mentor colleagues and watch them grow as they learn.  I am able to continue some of my mentoring friendships, but it is not the same as working with colleagues tackling real world, industry problems.
 
