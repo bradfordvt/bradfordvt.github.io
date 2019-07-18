@@ -1,10 +1,10 @@
 ---
-title: "VT Enterprises"
+title: "VT Enterprises Consulting Services"
 excerpt: "My personal business to continue to learn, develop my skills, mentor, advise and consult on special industry topics, and make an impact on industry and those around me."
 url: page.href
 header:
-  image: /assets/images/VTEnterprisesBanner.png
-  teaser: assets/images/vte_logo.png
+  image: /assets/images/VTEnterprisesConsultingServicesWide_White.png
+  teaser: assets/images/VTEnterprisesConsultingServicesSquare_White_100x100.png.png
 gallery:
   - url: /assets/images/DMZDiagram.png
     image_path: assets/images/DMZDiagram.png
