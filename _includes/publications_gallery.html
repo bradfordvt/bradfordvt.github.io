@@ -1,0 +1,12 @@
+<hr>
+<h3 class="archive_publicationstitle">My Publications</h3>
+{% for publication in site.publications %}
+  <h6>{{ publication.title }}</h6>
+  <a href=
+    {{ publication.url }}
+  >
+    <img src="{{ publication.header.icon | relative_url }}">
+  </a>
+  <figcaption>{{ publication.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+  {% unless forloop.last %},{% endunless %}
+{% endfor %}
