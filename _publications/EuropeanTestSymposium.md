@@ -3,7 +3,7 @@ title: "European Test Symposium (ETS)"
 excerpt: "This repository is a library of my publications at the European Test Symposium."
 url: page.href
 header:
-  image: /assets/images/logo_ets.png
+  image: /assets/images/logo_ets.jpg
   icon: /assets/images/ets_icon.png
   teaser: assets/images/ets_icon.png
 ---
