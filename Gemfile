@@ -17,6 +17,8 @@ source "https://rubygems.org"
 
 # gem "jekyll"
 gem "github-pages", group: :jekyll_plugins
+gem "kramdown-parser-gfm"
+gem "kramdown-syntax-coderay"
 gem "minimal-mistakes-jekyll"
 
 # The following plugins are automatically loaded by the theme-gem:
